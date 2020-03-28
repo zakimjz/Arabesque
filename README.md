@@ -1,7 +1,5 @@
 # Arabesque: Distributed graph mining made simple
 
-[http://arabesque.io](http://arabesque.io)
-
 *Current Version:* 1.0.1-BETA
 
 Arabesque is a distributed graph mining system that enables quick and easy
